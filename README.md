@@ -1,7 +1,7 @@
 # Nyarons-Collection
 All songs by Nyarons. A Japanese musical unit. It's formed by bassy and chika in 2016.
 
-![](https://x.com/bassy_chika/header_photo)
+[![](https://x.com/bassy_chika/header_photo)](https://pbs.twimg.com/profile_banners/783723166799540224/1589170801/1500x500)
 
 整理：Side（sdtkwxt）
 收集了 Nyarons 自 2016 结成至 2025 chika 退出的（可能是）所有的歌曲，并分为 Normal、Extra、Single 三类。
